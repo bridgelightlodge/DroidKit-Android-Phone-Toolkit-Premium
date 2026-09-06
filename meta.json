@@ -1,0 +1,23 @@
+{
+  "repo": "droidkit-android-phone-toolkit-premium",
+  "product": "DroidKit Android Phone Toolkit Premium",
+  "kind": "mobile",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "mobile",
+  "topics": [
+    "droidkit",
+    "android-repair",
+    "broken-screen-copy",
+    "whatsapp-recover",
+    "system-restore-phone",
+    "droidkit-setup-failed-fix",
+    "how-to-install-droidkit",
+    "droidkit-windows",
+    "droidkit-desktop-2026",
+    "droidkit-desktop-package"
+  ],
+  "site": "toolix.me"
+}
